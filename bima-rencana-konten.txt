@@ -1,0 +1,5 @@
+Rencana Konten Bima
+- Javascript
+- PHP framework
+- HTML
+- Interview
