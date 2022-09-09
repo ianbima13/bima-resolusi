@@ -4,6 +4,7 @@ Rencana Konten Bima
   * Framework Javascript
    ^ Angular
    ^ React
+   ^ Vue
 - PHP framework
  ^ CodeIgniter
 - HTML
