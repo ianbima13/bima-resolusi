@@ -1,5 +1,5 @@
 Bima RESOLUSI
 - konsisten membuat projek
 - membuat forum diskusi
-- membuat web sederhana
 - memperbanyak kolaborasi dengan orang lain
+- web sederhana sudah jadi
