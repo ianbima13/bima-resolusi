@@ -2,11 +2,10 @@ Rencana Konten Bima
 - Javascript
   * ES6
   * Framework Javascript
-   ^ Vue
+   ^ Angular
    ^ React
-- Struktur Data Dasar
 - PHP framework
-  * CodeIgniter
+ ^ CodeIgniter
 - HTML
 - Interview
 - Python
