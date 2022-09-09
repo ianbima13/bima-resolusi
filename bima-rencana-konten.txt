@@ -5,7 +5,6 @@ Rencana Konten Bima
    ^ Angular
    ^ React
    ^ Vue
-   ^ css layout
 - PHP framework
  ^ CodeIgniter
 - HTML
