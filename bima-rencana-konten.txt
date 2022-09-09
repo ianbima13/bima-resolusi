@@ -1,5 +1,7 @@
 Rencana Konten Bima
 - Javascript
+  * ES6
+  * Framework Javascript
 - PHP framework
 - HTML
 - Interview
